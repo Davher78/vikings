@@ -1,0 +1,2 @@
+# vikings
+Ejercicio Javascript
